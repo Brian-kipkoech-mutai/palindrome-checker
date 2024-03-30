@@ -1,0 +1,79 @@
+*{
+    box-sizing: border-box;
+
+}
+ body{
+    background-image: url("assets/DALL·E 2024-03-30 10.55.43 - BLACK HOLE ON TH SKY .png");
+    background-size: cover;
+    color: white;
+    font-family: 'Manrope', sans-serif;
+    backdrop-filter:blur(8px);
+    
+ }
+#ui{
+    font-size: 16px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    max-width: 500px;
+    gap: 1em;
+    padding: 0.5em;
+    height: 80vh;
+    
+}
+h1{
+  font-size: 100%;
+
+  color: #ffffff;
+}
+#inputOutputContainer{
+    background-color: black;
+    padding: 1em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5em;
+    font-size: 1.4em;
+    border-radius: 1em;
+}
+#input_section{
+     
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+
+}
+#text-input{
+    padding: 0.5em;
+    width: 70%;
+    border: none;
+    background-color: transparent;
+    border-bottom: solid  red;
+    border-radius: 0.5em;
+    color: #ffffff;
+    font-size: 1em;
+    outline: none;
+}
+#check-btn{
+    padding: 0.5em 1em;
+    font-size: 0.8em;
+    border-radius: 0.5em;
+    cursor: pointer;
+
+    
+}
+#info{
+    margin-top: 3em;
+    font-size: 1.2em;
+    max-width: 500px;
+     
+    padding: 0.5em;
+    background-color:rgba(0, 0, 0 ,0.4);
+    border-radius: 1em;
+    line-height:2cap ;
+    padding: 1em;
+    
+    color: #ffffff;
+}
