@@ -43,23 +43,22 @@ To run the palindrome checker locally, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/palindrome-checker.git
+   ```
 
-You're correct, I apologize for the oversight. Let's correct that by formatting the "Contributing" and "License" sections in Markdown format as well:
 
-```markdown
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
-
+```
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature/improvement`).
 3. Make your changes.
 4. Commit your changes (`git commit -am 'Add new feature'`).
 5. Push to the branch (`git push origin feature/improvement`).
 6. Create a new Pull Request.
-
+```
 ## License
-
+```
 This project is licensed under the [MIT License](LICENSE).
 ```
 
