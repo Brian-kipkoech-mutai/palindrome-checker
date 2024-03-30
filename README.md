@@ -1,5 +1,4 @@
 # palindrome-checker
-# Palindrome Checker
 
 This is a simple tool to check whether a given string is a palindrome or not.
 
@@ -62,4 +61,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 This project is licensed under the [MIT License](LICENSE).
 ```
 
-Now, the entire README file is written in Markdown format, making it suitable for use in your project repository.
+ 
